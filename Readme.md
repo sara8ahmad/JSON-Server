@@ -7,4 +7,4 @@ This is a backend server for the E-Commerce Project.
 
 2) install its dependencies - npm install.
  
-3) start the server - npm start serve
+3) start the server - npm run serve
