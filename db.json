@@ -1,0 +1,24 @@
+{
+
+ "products": [ {"id":1,"title":"Living Room","price":600,
+"image":"https://th.bing.com/th/id/R.0681d98a1fb8eb91cdb981b61528bbb1?rik=UP9nj6MjftLlsw&riu=http%3a%2f%2fcassandracrain.com%2fwp-content%2fuploads%2f2020%2f04%2f03-Gozzer-Horizontal.jpg&ehk=AaAPCfEQ74JrG0wklF%2bComFQfMXfKwiGyUKzPnXDQZk%3d&risl=&pid=ImgRaw&r=0"
+},{"id":2,"title":"Dinning Room","price":900,
+"image":"https://i.pinimg.com/originals/b6/df/89/b6df89cd2d57c2cf29d5b8535e42bae4.jpg"
+},{"id":3,"title":"Office Room","price":800,
+"image":"https://th.bing.com/th/id/OIP.KcN9-FnY03hLgK_MT-DTzwHaE8?pid=ImgDet&rs=1"
+},{"id":4,"title":"Bed Room","price":400,
+"image":"https://i.pinimg.com/originals/8c/93/1e/8c931e48ace7aa8cad36e8a463420bbc.jpg"}
+ ],
+"categorys": [ {"id":5,"title":"Coffee Table ","price":200,
+"image":"https://www.made-to-last.co.uk/media/catalog/product/g/d/gd-5056272083451-loscombe-oak-round-coffee-table-image1.jpg"
+},{"id":6,"title":"Dinning Chairs","price":300,
+"image":"https://th.bing.com/th/id/OIP._kjagnAf3kZPldOHEYM1AwHaHa?pid=ImgDet&rs=1"
+},{"id":7,"title":"Tv & Media Consoles","price":350,
+"image":"https://i5.walmartimages.com/asr/12d583c0-c2ba-45ac-a137-f218337d0eb6.5d62c1934f359912667c35b515e155e0.jpeg"
+},{"id":8,"title":"Beds","price":600,
+"image":"https://cdn.shopify.com/s/files/1/1414/6106/collections/category-upholstered-beds.jpg?v=1539857295"}
+,{"id":9,"title":"Desk Chairs","price":450,
+"image":"https://i5.walmartimages.com/asr/63a7b81f-391e-4991-9012-ae47c974de09_1.1f766dbc2218c729d8af969b81839989.jpeg"}
+]
+
+}
